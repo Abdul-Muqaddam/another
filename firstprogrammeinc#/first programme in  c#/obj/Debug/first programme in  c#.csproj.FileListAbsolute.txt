@@ -1,0 +1,7 @@
+C:\Users\PMYLS\source\repos\first programme in  c#\first programme in  c#\obj\Debug\first programme in  c#.csproj.AssemblyReference.cache
+C:\Users\PMYLS\source\repos\first programme in  c#\first programme in  c#\obj\Debug\first programme in  c#.csproj.CoreCompileInputs.cache
+C:\Users\PMYLS\source\repos\first programme in  c#\first programme in  c#\bin\Debug\first programme in  c#.exe.config
+C:\Users\PMYLS\source\repos\first programme in  c#\first programme in  c#\bin\Debug\first programme in  c#.exe
+C:\Users\PMYLS\source\repos\first programme in  c#\first programme in  c#\bin\Debug\first programme in  c#.pdb
+C:\Users\PMYLS\source\repos\first programme in  c#\first programme in  c#\obj\Debug\first programme in  c#.exe
+C:\Users\PMYLS\source\repos\first programme in  c#\first programme in  c#\obj\Debug\first programme in  c#.pdb
